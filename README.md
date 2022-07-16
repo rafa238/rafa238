@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate developer from Mexico.</h3>
+<h3 align="center">A passionate developer from Mexico and computer science student at ESCOM </h3>
 
 - 🌱 I’m currently learning **about algorithms and computer science at ESCOM in Mexico**
 
