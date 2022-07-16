@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **about algorithms and computer science at ESCOM in Mexico**
 
 ```javascript
-const DanielArmas = {
+const RafaelJL = {
   fullName: 'Rafael Juárez Laureano',
   age: 19,
   country: 'MX',
