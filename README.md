@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
+<img src="./images/header.png" alt="Profile header" width="100%"/>
 <h3 align="center">A passionate developer from Mexico and computer science student at ESCOM </h3>
 
 - 🌱 I’m currently learning **about algorithms and computer science at ESCOM in Mexico**
